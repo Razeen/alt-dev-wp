@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2013-10-12 17:19-0400\n"
+"PO-Revision-Date: 2013-10-12 17:21-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:53 woocommerce-checkout-manager.php:107
+#, fuzzy
+msgid "Additional Information"
+msgstr "thông tin bổ sung"
+
+#: woocommerce-checkout-manager.php:85
+msgid "WooCCM"
+msgstr "WooCCM"
+
+#: woocommerce-checkout-manager.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bạn không có đủ quyền để truy cập trang này."
+
+#: woocommerce-checkout-manager.php:128
+msgid "settings saved."
+msgstr "cài đặt đã lưu."
+
+#: woocommerce-checkout-manager.php:144 woocommerce-checkout-manager.php:1204
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Thanh toán quản lý"
+
+#: woocommerce-checkout-manager.php:151
+msgid ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+msgstr ""
+"Đây là những gì trông giống như PRO! Nếu bạn có bất kỳ câu hỏi hoặc quan tâm "
+"tìm thấy chúng tôi trên"
+
+#: woocommerce-checkout-manager.php:151
+msgid "Forum."
+msgstr "Diễn đàn."
+
+#: woocommerce-checkout-manager.php:184
+msgid "Save Changes"
+msgstr "Lưu Thay đổi"
+
+#: woocommerce-checkout-manager.php:191
+msgid "Billing Section"
+msgstr "Phần thanh toán"
+
+#: woocommerce-checkout-manager.php:204 woocommerce-checkout-manager.php:413
+#: woocommerce-checkout-manager.php:578
+msgid "Field Name"
+msgstr "Tên trường"
+
+#: woocommerce-checkout-manager.php:205 woocommerce-checkout-manager.php:414
+msgid "Remove Field Entirely"
+msgstr "Hoàn toàn loại bỏ trường"
+
+#: woocommerce-checkout-manager.php:206 woocommerce-checkout-manager.php:415
+msgid "Remove Required Attribute"
+msgstr "Loại bỏ thuộc tính bắt buộc"
+
+#: woocommerce-checkout-manager.php:207 woocommerce-checkout-manager.php:416
+msgid "Replace Label Name"
+msgstr "Thay thế Nhãn Tên"
+
+#: woocommerce-checkout-manager.php:208 woocommerce-checkout-manager.php:417
+msgid "Replace Placeholder Name"
+msgstr "Thay thế giữ chỗ Tên"
+
+#: woocommerce-checkout-manager.php:216 woocommerce-checkout-manager.php:425
+msgid "Select All Check boxes in this Column"
+msgstr "Chọn tất cả các hộp Kiểm tra trong cột này"
+
+#: woocommerce-checkout-manager.php:227 woocommerce-checkout-manager.php:437
+msgid "First Name"
+msgstr "Tên"
+
+#: woocommerce-checkout-manager.php:244 woocommerce-checkout-manager.php:454
+msgid "Last Name"
+msgstr "họ"
+
+#: woocommerce-checkout-manager.php:259 woocommerce-checkout-manager.php:485
+msgid "Country"
+msgstr "Quốc gia"
+
+#: woocommerce-checkout-manager.php:272
+msgid "Phone"
+msgstr "điện thoại"
+
+#: woocommerce-checkout-manager.php:287
+msgid "Email"
+msgstr "E-mail"
+
+#: woocommerce-checkout-manager.php:303 woocommerce-checkout-manager.php:469
+msgid "Company"
+msgstr "công ty"
+
+#: woocommerce-checkout-manager.php:320
+msgid "Order Comments"
+msgstr "để nhận xét"
+
+#: woocommerce-checkout-manager.php:336 woocommerce-checkout-manager.php:500
+msgid "Address 1"
+msgstr "địa chỉ 1"
+
+#: woocommerce-checkout-manager.php:347 woocommerce-checkout-manager.php:512
+msgid "Address 2"
+msgstr "địa chỉ 2"
+
+#: woocommerce-checkout-manager.php:358 woocommerce-checkout-manager.php:524
+msgid "City"
+msgstr "thành phố"
+
+#: woocommerce-checkout-manager.php:369 woocommerce-checkout-manager.php:536
+msgid "Postal Code"
+msgstr "Mã bưu chính"
+
+#: woocommerce-checkout-manager.php:382 woocommerce-checkout-manager.php:549
+msgid "State"
+msgstr "nhà nước"
+
+#: woocommerce-checkout-manager.php:399
+msgid "Shipping Section"
+msgstr "Mục vận chuyển"
+
+#: woocommerce-checkout-manager.php:566
+msgid "Address Fields and Custom CSS"
+msgstr "Các lĩnh vực địa chỉ và các tùy chỉnh CSS"
+
+#: woocommerce-checkout-manager.php:579
+msgid "Product ID - example 2222,1111,4444"
+msgstr "ID sản phẩm - ví dụ 2222,1111,4444"
+
+#: woocommerce-checkout-manager.php:587
+msgid "Disable Address fields: "
+msgstr "Vô hiệu hóa các lĩnh vực Địa chỉ:"
+
+#: woocommerce-checkout-manager.php:595
+msgid ""
+"To get product number, goto the listing of WooCoommerce Products then hover "
+"over each product and you will see ID. Example"
+msgstr ""
+"Để có được số lượng sản phẩm, goto danh sách các WooCoommerce Sản phẩm sau "
+"đó di chuột qua từng sản phẩm và bạn sẽ thấy ID. Ví dụ"
+
+#: woocommerce-checkout-manager.php:609
+msgid "Custom CSS"
+msgstr "tùy chỉnh CSS"
+
+#: woocommerce-checkout-manager.php:610
+msgid "What is CSS?"
+msgstr "CSS là gì?"
+
+#: woocommerce-checkout-manager.php:611
+msgid ""
+"CSS language stands for Cascading Style Sheets which is used to style html "
+"content. You can change the fonts size, colours, margins of content, which "
+"lines to show or input, adjust height, width, background images etc."
+msgstr ""
+"Ngôn ngữ CSS là viết tắt của Cascading Style Sheets được sử dụng để nội dung "
+"html phong cách. Bạn có thể thay đổi kích thước phông chữ, màu sắc, tỷ suất "
+"lợi nhuận của nội dung, trong đó dòng để hiển thị hoặc đầu vào, điều chỉnh "
+"chiều cao, chiều rộng, hình nền, vv"
+
+#: woocommerce-checkout-manager.php:613
+msgid "Get help in our Support"
+msgstr "Được giúp đỡ trong hỗ trợ của chúng tôi"
+
+#: woocommerce-checkout-manager.php:614
+msgid "Forum"
+msgstr "Forum"
+
+#: woocommerce-checkout-manager.php:628
+msgid "Add Checkout Notice"
+msgstr "Thêm Thanh toán Thông báo"
+
+#: woocommerce-checkout-manager.php:642 woocommerce-checkout-manager.php:682
+msgid "Position for Notice"
+msgstr "Vị trí cho Thông báo"
+
+#: woocommerce-checkout-manager.php:646 woocommerce-checkout-manager.php:686
+msgid "Before Customer Address Fields"
+msgstr "Địa chỉ trước khi khách hàng Fields"
+
+#: woocommerce-checkout-manager.php:651 woocommerce-checkout-manager.php:691
+msgid "Before Order Summary"
+msgstr "Tóm tắt thông tin trước khi Order"
+
+#: woocommerce-checkout-manager.php:664
+msgid "Notice Text 1 - "
+msgstr "Chú ý Tiêu đề 1 -"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "You can use class"
+msgstr "Bạn có thể sử dụng lớp"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "for the same design as WooCommerce Coupon."
+msgstr "cho việc thiết kế tương tự như WooCommerce Coupon."
+
+#: woocommerce-checkout-manager.php:704
+msgid "Notice Text 2 - "
+msgstr "Chú ý Tiêu đề 2 -"
+
+#: woocommerce-checkout-manager.php:722
+msgid "New Fields Position & Switches"
+msgstr "Lĩnh vực mới Chức vụ & Thiết bị chuyển mạch"
+
+#: woocommerce-checkout-manager.php:735
+msgid "Name"
+msgstr "tên"
+
+#: woocommerce-checkout-manager.php:736
+msgid "Enable/ Disable"
+msgstr "Bật / Tắt"
+
+#: woocommerce-checkout-manager.php:743
+msgid "Retain Fields Information"
+msgstr "Giữ lại lĩnh vực Thông tin"
+
+#: woocommerce-checkout-manager.php:751
+msgid "Before Shipping Form"
+msgstr "Trước khi vận chuyển mẫu"
+
+#: woocommerce-checkout-manager.php:759
+msgid "After Shipping Form"
+msgstr "Mẫu sau khi vận chuyển"
+
+#: woocommerce-checkout-manager.php:767
+msgid "Before Billing Form"
+msgstr "Trước khi mẫu Thanh toán"
+
+#: woocommerce-checkout-manager.php:776
+msgid "After Billing Form"
+msgstr "Sau khi mẫu Thanh toán"
+
+#: woocommerce-checkout-manager.php:785
+msgid "After Order Notes"
+msgstr "Sau Ghi chú thứ tự"
+
+#: woocommerce-checkout-manager.php:801
+msgid "Add New Field Section with Text/ Html Swapper"
+msgstr "Thêm vào mục New Field với Text / Html Swapper"
+
+#: woocommerce-checkout-manager.php:817
+msgid "Enable Title"
+msgstr "cho phép Tiêu đề"
+
+#: woocommerce-checkout-manager.php:822
+msgid "Checkout Page"
+msgstr "kiểm tra trang"
+
+#: woocommerce-checkout-manager.php:827
+msgid "Checkout Details and Email Receipt"
+msgstr "Chi tiết thanh toán và E-mail nhận"
+
+#: woocommerce-checkout-manager.php:890 woocommerce-checkout-manager.php:965
+#: woocommerce-checkout-manager.php:1070
+msgid "Change order"
+msgstr "thay đổi thứ tự"
+
+#: woocommerce-checkout-manager.php:892 woocommerce-checkout-manager.php:1074
+msgid "Default Color"
+msgstr "A cor padrão"
+
+#: woocommerce-checkout-manager.php:893
+msgid "Show for Single Product Only"
+msgstr "Hiển thị cho các đơn hàng Chỉ"
+
+#: woocommerce-checkout-manager.php:895
+msgid "Label"
+msgstr "nhãn"
+
+#: woocommerce-checkout-manager.php:897
+msgid "Placeholder"
+msgstr "giữ chỗ"
+
+#: woocommerce-checkout-manager.php:899
+msgid "Force Title"
+msgstr "lực lượng Tiêu đề"
+
+#: woocommerce-checkout-manager.php:901 woocommerce-checkout-manager.php:1090
+msgid "Input Name"
+msgstr "Tên đầu vào"
+
+#: woocommerce-checkout-manager.php:903 woocommerce-checkout-manager.php:1093
+msgid "Change Name to"
+msgstr "Tên thay đổi để"
+
+#: woocommerce-checkout-manager.php:905
+msgid "Checked Value"
+msgstr "giá trị kiểm tra"
+
+#: woocommerce-checkout-manager.php:907
+msgid "Not Checked Value"
+msgstr "Giá trị không Kiểm tra"
+
+#: woocommerce-checkout-manager.php:909
+#, fuzzy
+msgid "Option 1"
+msgstr "lựa chọn 1"
+
+#: woocommerce-checkout-manager.php:911
+#, fuzzy
+msgid "Option 2"
+msgstr "lựa chọn 2"
+
+#: woocommerce-checkout-manager.php:913
+msgid "Option 3"
+msgstr "Lựa chọn 3"
+
+#: woocommerce-checkout-manager.php:915
+msgid "Option 4"
+msgstr "Lựa chọn 4"
+
+#: woocommerce-checkout-manager.php:917
+msgid "Option 5"
+msgstr "Lựa chọn 5"
+
+#: woocommerce-checkout-manager.php:919
+msgid "Option 6"
+msgstr "Lựa chọn 6"
+
+#: woocommerce-checkout-manager.php:921
+msgid "Option 7"
+msgstr "Lựa chọn 7"
+
+#: woocommerce-checkout-manager.php:923
+msgid "Option 8"
+msgstr "Lựa chọn 8"
+
+#: woocommerce-checkout-manager.php:925
+msgid "Option 9"
+msgstr "Lựa chọn 9"
+
+#: woocommerce-checkout-manager.php:927
+msgid "Option 10"
+msgstr "lựa chọn 10"
+
+#: woocommerce-checkout-manager.php:929 woocommerce-checkout-manager.php:931
+#: woocommerce-checkout-manager.php:933 woocommerce-checkout-manager.php:935
+msgid "&equiv;"
+msgstr "&equiv;"
+
+#: woocommerce-checkout-manager.php:938
+msgid "Choose Type"
+msgstr "chọn Loại"
+
+#: woocommerce-checkout-manager.php:939
+msgid "Abbreviation"
+msgstr "Tên viết tắt"
+
+#: woocommerce-checkout-manager.php:940
+msgid "Required Attribute"
+msgstr "thuộc tính cần thiết"
+
+#: woocommerce-checkout-manager.php:942 woocommerce-checkout-manager.php:1159
+msgid "Float Right"
+msgstr "nổi phải"
+
+#: woocommerce-checkout-manager.php:944
+msgid "Remove button"
+msgstr "nút loại bỏ"
+
+#: woocommerce-checkout-manager.php:1027 woocommerce-checkout-manager.php:1131
+msgid "Options Toggler"
+msgstr "Tùy chọn Toggler"
+
+#: woocommerce-checkout-manager.php:1028 woocommerce-checkout-manager.php:1132
+msgid "Checkbox Toggler"
+msgstr "hộp kiểm Toggler"
+
+#: woocommerce-checkout-manager.php:1029 woocommerce-checkout-manager.php:1133
+msgid "T & H Toggler"
+msgstr "T & H Toggler"
+
+#: woocommerce-checkout-manager.php:1030 woocommerce-checkout-manager.php:1134
+msgid "C & P Toggler"
+msgstr "C & P Toggler"
+
+#: woocommerce-checkout-manager.php:1060 woocommerce-checkout-manager.php:1162
+msgid "Remove Field"
+msgstr "loại bỏ trường"
+
+#: woocommerce-checkout-manager.php:1077
+msgid "Display Field for these Products Only"
+msgstr "Hiển thị trường cho các sản phẩm này chỉ"
+
+#: woocommerce-checkout-manager.php:1081
+msgid "Label of the New Field"
+msgstr "Nhãn của trường mới"
+
+#: woocommerce-checkout-manager.php:1084
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Giữ chỗ - Xem trước của dữ liệu đầu vào để"
+
+#: woocommerce-checkout-manager.php:1087
+msgid "First Option Displayed"
+msgstr "Lựa chọn đầu tiên hiển thị"
+
+#: woocommerce-checkout-manager.php:1153
+msgid "Abbreviation (No spaces)"
+msgstr "Tên viết tắt (Không dấu)"
+
+#: woocommerce-checkout-manager.php:1156
+msgid "Add/Remove Required Attribute"
+msgstr "Thêm Hủy bỏ thuộc tính bắt buộc"
+
+#: woocommerce-checkout-manager.php:1170
+msgid "+ Add New Field"
+msgstr "+ Thêm trường mới"
+
+#: woocommerce-checkout-manager.php:1180
+msgid "Settings"
+msgstr "cài đặt"
+
+#: woocommerce-checkout-manager.php:1181
+msgid "Support"
+msgstr "hỗ trợ"
+
+#: woocommerce-checkout-manager.php:1650 woocommerce-checkout-manager.php:1654
+msgid "is a required field"
+msgstr "là một trường bắt buộc"
+
+#: woocommerce-checkout-manager.php:2100 woocommerce-checkout-manager.php:2170
+msgid "Address"
+msgstr "địa chỉ"
+
+#: woocommerce-checkout-manager.php:2127 woocommerce-checkout-manager.php:2197
+msgid "Town / City"
+msgstr "Tỉnh / Thành phố"
+
+#: woocommerce-checkout-manager.php:2141 woocommerce-checkout-manager.php:2211
+msgid "Postcode / Zip"
+msgstr "Mã bưu điện / Zip"
+
+#: woocommerce-checkout-manager.php:2155 woocommerce-checkout-manager.php:2225
+msgid "State / County"
+msgstr "Nhà nước / Quận"
+
+#: woocommerce-checkout-manager.php:2321
+msgid "Customer details"
+msgstr "chi tiết khách hàng"
+
+#: woocommerce-checkout-manager.php:2325
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail"
+
+#: woocommerce-checkout-manager.php:2326
+msgid "Telephone:"
+msgstr "điện thoại:"
+
+#: woocommerce-checkout-manager.php:2339
+msgid "Billing Address"
+msgstr "Địa chỉ thanh toán"
+
+#: woocommerce-checkout-manager.php:2343 woocommerce-checkout-manager.php:2358
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce-checkout-manager.php:2354
+msgid "Shipping Address"
+msgstr "Địa chỉ vận chuyển"
+
+#~ msgid "Example Label"
+#~ msgstr "Ví dụ nhãn"
+
+#~ msgid "Example placeholder"
+#~ msgstr "giữ chỗ ví dụ"
+
+#~ msgid "myfld1"
+#~ msgstr "myfld1"
+
+#~ msgid "Found this Plugin Useful? Why not Buy me a "
+#~ msgstr "Tìm thấy Plugin này hữu ích? Tại sao không mua cho tôi một"
+
+#~ msgid "beer"
+#~ msgstr "bia"
+
+#~ msgid "to say thanks for the awesome coding."
+#~ msgstr "nói cảm ơn cho mã hóa tuyệt vời."
+
+#~ msgid "PRO VERSION"
+#~ msgstr "PHIÊN BẢN PRO"
+
+#~ msgid ""
+#~ "- now includes text/ html swapper (change billing address text ++), "
+#~ "checkbox (input own two options), select up to ten(10) more options and "
+#~ "more!"
+#~ msgstr ""
+#~ "- Hiện nay bao gồm văn bản / html swapper (thay đổi địa chỉ thanh toán "
+#~ "văn bản + +), hộp kiểm (riêng đầu vào hai tùy chọn), chọn tối đa mười "
+#~ "(10) lựa chọn hơn và nhiều hơn nữa!"
+
+#~ msgid "Enable Title - Additional information"
+#~ msgstr "Cho phép Tiêu đề - Thông tin bổ sung"
+
+#~ msgid "Insert Option A"
+#~ msgstr "Chèn Lựa chọn A"
+
+#~ msgid "Insert Option B"
+#~ msgstr "Chèn Lựa chọn B"
+
+#~ msgid "Select below"
+#~ msgstr "chọn dưới đây"

@@ -1,0 +1,25 @@
+#files-listing-wccm img {
+width: 50px;
+height: 50px;
+float:left;
+margin-right: 8px;
+margin-top: 4px;
+}
+#files-listing-wccm {
+list-style: none;
+}
+#wccm_uploader_select {
+float:left;
+}
+#files_wccm {
+width: inherit;
+margin-right: 4px;
+}
+#response_wccm {
+float: right;
+clear: left;
+margin-top: -25px;
+}
+#wccm_make_smaller {
+font-size: 80%;
+}

@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2013-10-12 15:30-0400\n"
+"PO-Revision-Date: 2013-10-12 15:32-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:53 woocommerce-checkout-manager.php:107
+msgid "Additional Information"
+msgstr "Tilleggsinformasjon"
+
+#: woocommerce-checkout-manager.php:85
+msgid "WooCCM"
+msgstr "WooCCM"
+
+#: woocommerce-checkout-manager.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Du har ikke tilstrekkelige tillatelser til å få tilgang til denne siden."
+
+#: woocommerce-checkout-manager.php:128
+msgid "settings saved."
+msgstr "innstillingene lagret."
+
+#: woocommerce-checkout-manager.php:144 woocommerce-checkout-manager.php:1204
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Kasse leder"
+
+#: woocommerce-checkout-manager.php:151
+msgid ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+msgstr ""
+"Dette er hva PRO ser ut! Skulle du ha noen spørsmål eller bekymringer finner "
+"oss på"
+
+#: woocommerce-checkout-manager.php:151
+msgid "Forum."
+msgstr "Forum."
+
+#: woocommerce-checkout-manager.php:184
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: woocommerce-checkout-manager.php:191
+msgid "Billing Section"
+msgstr "Billing Seksjon"
+
+#: woocommerce-checkout-manager.php:204 woocommerce-checkout-manager.php:413
+#: woocommerce-checkout-manager.php:578
+msgid "Field Name"
+msgstr "Feltnavn"
+
+#: woocommerce-checkout-manager.php:205 woocommerce-checkout-manager.php:414
+msgid "Remove Field Entirely"
+msgstr "Fjern Felt Helt"
+
+#: woocommerce-checkout-manager.php:206 woocommerce-checkout-manager.php:415
+msgid "Remove Required Attribute"
+msgstr "Fjern Obligatorisk data"
+
+#: woocommerce-checkout-manager.php:207 woocommerce-checkout-manager.php:416
+msgid "Replace Label Name"
+msgstr "Bytt Nummer Navn"
+
+#: woocommerce-checkout-manager.php:208 woocommerce-checkout-manager.php:417
+msgid "Replace Placeholder Name"
+msgstr "Bytt plassholdernavnet"
+
+#: woocommerce-checkout-manager.php:216 woocommerce-checkout-manager.php:425
+msgid "Select All Check boxes in this Column"
+msgstr "Velg alle alternativene i denne kolonne"
+
+#: woocommerce-checkout-manager.php:227 woocommerce-checkout-manager.php:437
+msgid "First Name"
+msgstr "Fornavn"
+
+#: woocommerce-checkout-manager.php:244 woocommerce-checkout-manager.php:454
+msgid "Last Name"
+msgstr "etternavn"
+
+#: woocommerce-checkout-manager.php:259 woocommerce-checkout-manager.php:485
+msgid "Country"
+msgstr "land"
+
+#: woocommerce-checkout-manager.php:272
+msgid "Phone"
+msgstr "Telefon"
+
+#: woocommerce-checkout-manager.php:287
+msgid "Email"
+msgstr "e-post"
+
+#: woocommerce-checkout-manager.php:303 woocommerce-checkout-manager.php:469
+msgid "Company"
+msgstr "selskapet"
+
+#: woocommerce-checkout-manager.php:320
+msgid "Order Comments"
+msgstr "Bestill Kommentarer"
+
+#: woocommerce-checkout-manager.php:336 woocommerce-checkout-manager.php:500
+msgid "Address 1"
+msgstr "adresse 1"
+
+#: woocommerce-checkout-manager.php:347 woocommerce-checkout-manager.php:512
+msgid "Address 2"
+msgstr "adresse 2"
+
+#: woocommerce-checkout-manager.php:358 woocommerce-checkout-manager.php:524
+msgid "City"
+msgstr "by"
+
+#: woocommerce-checkout-manager.php:369 woocommerce-checkout-manager.php:536
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: woocommerce-checkout-manager.php:382 woocommerce-checkout-manager.php:549
+msgid "State"
+msgstr "stat"
+
+#: woocommerce-checkout-manager.php:399
+msgid "Shipping Section"
+msgstr "Shipping Seksjon"
+
+#: woocommerce-checkout-manager.php:566
+msgid "Address Fields and Custom CSS"
+msgstr "Besøksadresse felt og egendefinerte CSS"
+
+#: woocommerce-checkout-manager.php:579
+msgid "Product ID - example 2222,1111,4444"
+msgstr "produkt-ID - eksempel 2222,1111,4444"
+
+#: woocommerce-checkout-manager.php:587
+msgid "Disable Address fields: "
+msgstr "Deaktiver Besøksadresse felt:"
+
+#: woocommerce-checkout-manager.php:595
+msgid ""
+"To get product number, goto the listing of WooCoommerce Products then hover "
+"over each product and you will see ID. Example"
+msgstr ""
+"For å få produktnummer, goto en oversikt over WooCoommerce Products deretter "
+"sveve over hvert produkt, og du vil se ID. eksempel"
+
+#: woocommerce-checkout-manager.php:609
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: woocommerce-checkout-manager.php:610
+msgid "What is CSS?"
+msgstr "Hva er CSS?"
+
+#: woocommerce-checkout-manager.php:611
+msgid ""
+"CSS language stands for Cascading Style Sheets which is used to style html "
+"content. You can change the fonts size, colours, margins of content, which "
+"lines to show or input, adjust height, width, background images etc."
+msgstr ""
+"CSS språk står for Cascading Style Sheets som brukes til å style html "
+"innhold. Du kan endre fonter størrelse, farger, marginer med innhold, hvilke "
+"linjer for å vise eller innspill, kan du justere høyde, bredde, "
+"bakgrunnsbilder osv."
+
+#: woocommerce-checkout-manager.php:613
+msgid "Get help in our Support"
+msgstr "Få hjelp til støtte vår"
+
+#: woocommerce-checkout-manager.php:614
+msgid "Forum"
+msgstr "Forum"
+
+#: woocommerce-checkout-manager.php:628
+msgid "Add Checkout Notice"
+msgstr "Legg Kasse varsel"
+
+#: woocommerce-checkout-manager.php:642 woocommerce-checkout-manager.php:682
+msgid "Position for Notice"
+msgstr "Posisjon for varsel"
+
+#: woocommerce-checkout-manager.php:646 woocommerce-checkout-manager.php:686
+msgid "Before Customer Address Fields"
+msgstr "Før kundens adresse felt"
+
+#: woocommerce-checkout-manager.php:651 woocommerce-checkout-manager.php:691
+msgid "Before Order Summary"
+msgstr "Før ordresammendragssiden"
+
+#: woocommerce-checkout-manager.php:664
+msgid "Notice Text 1 - "
+msgstr "Legg merke Tekst 1 -"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "You can use class"
+msgstr "Du kan bruke klasse"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "for the same design as WooCommerce Coupon."
+msgstr "for den samme utforming som WooCommerce kupongen."
+
+#: woocommerce-checkout-manager.php:704
+msgid "Notice Text 2 - "
+msgstr "Legg merke tekst 2 -"
+
+#: woocommerce-checkout-manager.php:722
+msgid "New Fields Position & Switches"
+msgstr "Nye felt posisjon og Brytere"
+
+#: woocommerce-checkout-manager.php:735
+msgid "Name"
+msgstr "navn"
+
+#: woocommerce-checkout-manager.php:736
+msgid "Enable/ Disable"
+msgstr "Aktiver / deaktiver"
+
+#: woocommerce-checkout-manager.php:743
+msgid "Retain Fields Information"
+msgstr "Beholde felt Informasjon"
+
+#: woocommerce-checkout-manager.php:751
+msgid "Before Shipping Form"
+msgstr "Før frakt skjema"
+
+#: woocommerce-checkout-manager.php:759
+msgid "After Shipping Form"
+msgstr "Etter frakt skjema"
+
+#: woocommerce-checkout-manager.php:767
+msgid "Before Billing Form"
+msgstr "Før fakturering skjema"
+
+#: woocommerce-checkout-manager.php:776
+msgid "After Billing Form"
+msgstr "Etter fakturering skjema"
+
+#: woocommerce-checkout-manager.php:785
+msgid "After Order Notes"
+msgstr "Etter Bestill Merknader"
+
+#: woocommerce-checkout-manager.php:801
+msgid "Add New Field Section with Text/ Html Swapper"
+msgstr "Legg til nytt felt Seksjon med text / html Swapper"
+
+#: woocommerce-checkout-manager.php:817
+msgid "Enable Title"
+msgstr "aktiver Tittel"
+
+#: woocommerce-checkout-manager.php:822
+msgid "Checkout Page"
+msgstr "Kasse Side"
+
+#: woocommerce-checkout-manager.php:827
+msgid "Checkout Details and Email Receipt"
+msgstr "Kasse Detaljer og e-post kvittering"
+
+#: woocommerce-checkout-manager.php:890 woocommerce-checkout-manager.php:965
+#: woocommerce-checkout-manager.php:1070
+msgid "Change order"
+msgstr "endre rekkefølgen"
+
+#: woocommerce-checkout-manager.php:892 woocommerce-checkout-manager.php:1074
+msgid "Default Color"
+msgstr "standard farge"
+
+#: woocommerce-checkout-manager.php:893
+msgid "Show for Single Product Only"
+msgstr "Vis for enkelt produkt kun"
+
+#: woocommerce-checkout-manager.php:895
+msgid "Label"
+msgstr "etiketten"
+
+#: woocommerce-checkout-manager.php:897
+msgid "Placeholder"
+msgstr "plassholder"
+
+#: woocommerce-checkout-manager.php:899
+msgid "Force Title"
+msgstr "kraft Tittel"
+
+#: woocommerce-checkout-manager.php:901 woocommerce-checkout-manager.php:1090
+msgid "Input Name"
+msgstr "Input Name"
+
+#: woocommerce-checkout-manager.php:903 woocommerce-checkout-manager.php:1093
+msgid "Change Name to"
+msgstr "Endre navn til"
+
+#: woocommerce-checkout-manager.php:905
+msgid "Checked Value"
+msgstr "sjekket Verdi"
+
+#: woocommerce-checkout-manager.php:907
+msgid "Not Checked Value"
+msgstr "Ikke Sjekket Verdi"
+
+#: woocommerce-checkout-manager.php:909
+#, fuzzy
+msgid "Option 1"
+msgstr "alternativ 1"
+
+#: woocommerce-checkout-manager.php:911
+#, fuzzy
+msgid "Option 2"
+msgstr "alternativ 2"
+
+#: woocommerce-checkout-manager.php:913
+msgid "Option 3"
+msgstr "alternativ 3"
+
+#: woocommerce-checkout-manager.php:915
+msgid "Option 4"
+msgstr "alternativ 4"
+
+#: woocommerce-checkout-manager.php:917
+msgid "Option 5"
+msgstr "alternativ 5"
+
+#: woocommerce-checkout-manager.php:919
+msgid "Option 6"
+msgstr "alternativ 6"
+
+#: woocommerce-checkout-manager.php:921
+msgid "Option 7"
+msgstr "alternativ 7"
+
+#: woocommerce-checkout-manager.php:923
+msgid "Option 8"
+msgstr "alternativ 8"
+
+#: woocommerce-checkout-manager.php:925
+msgid "Option 9"
+msgstr "alternativ 9"
+
+#: woocommerce-checkout-manager.php:927
+msgid "Option 10"
+msgstr "alternativ 10"
+
+#: woocommerce-checkout-manager.php:929 woocommerce-checkout-manager.php:931
+#: woocommerce-checkout-manager.php:933 woocommerce-checkout-manager.php:935
+msgid "&equiv;"
+msgstr "&equiv;"
+
+#: woocommerce-checkout-manager.php:938
+msgid "Choose Type"
+msgstr "Velg type"
+
+#: woocommerce-checkout-manager.php:939
+msgid "Abbreviation"
+msgstr "forkortelse"
+
+#: woocommerce-checkout-manager.php:940
+msgid "Required Attribute"
+msgstr "Obligatorisk data"
+
+#: woocommerce-checkout-manager.php:942 woocommerce-checkout-manager.php:1159
+msgid "Float Right"
+msgstr "flyte Høyre"
+
+#: woocommerce-checkout-manager.php:944
+msgid "Remove button"
+msgstr "Fjern-knappen"
+
+#: woocommerce-checkout-manager.php:1027 woocommerce-checkout-manager.php:1131
+msgid "Options Toggler"
+msgstr "alternativer veksle"
+
+#: woocommerce-checkout-manager.php:1028 woocommerce-checkout-manager.php:1132
+msgid "Checkbox Toggler"
+msgstr "Checkbox veksle"
+
+#: woocommerce-checkout-manager.php:1029 woocommerce-checkout-manager.php:1133
+msgid "T & H Toggler"
+msgstr "T & H Toggler"
+
+#: woocommerce-checkout-manager.php:1030 woocommerce-checkout-manager.php:1134
+msgid "C & P Toggler"
+msgstr "C & P Toggler"
+
+#: woocommerce-checkout-manager.php:1060 woocommerce-checkout-manager.php:1162
+msgid "Remove Field"
+msgstr "fjerne felt"
+
+#: woocommerce-checkout-manager.php:1077
+msgid "Display Field for these Products Only"
+msgstr "Vis Felt for disse produktene bare"
+
+#: woocommerce-checkout-manager.php:1081
+msgid "Label of the New Field"
+msgstr "Etiketten på nytt felt"
+
+#: woocommerce-checkout-manager.php:1084
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Plassholder - Forhåndsvisning av data til Input"
+
+#: woocommerce-checkout-manager.php:1087
+msgid "First Option Displayed"
+msgstr "Første alternativet som vises"
+
+#: woocommerce-checkout-manager.php:1153
+msgid "Abbreviation (No spaces)"
+msgstr "Forkortelse (Ingen mellomrom)"
+
+#: woocommerce-checkout-manager.php:1156
+msgid "Add/Remove Required Attribute"
+msgstr "Legg til / fjern Obligatorisk data"
+
+#: woocommerce-checkout-manager.php:1170
+msgid "+ Add New Field"
+msgstr "+ Legg til nytt felt"
+
+#: woocommerce-checkout-manager.php:1180
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: woocommerce-checkout-manager.php:1181
+msgid "Support"
+msgstr "støtte"
+
+#: woocommerce-checkout-manager.php:1650 woocommerce-checkout-manager.php:1654
+msgid "is a required field"
+msgstr "er et obligatorisk felt"
+
+#: woocommerce-checkout-manager.php:2100 woocommerce-checkout-manager.php:2170
+msgid "Address"
+msgstr "adresse "
+
+#: woocommerce-checkout-manager.php:2127 woocommerce-checkout-manager.php:2197
+msgid "Town / City"
+msgstr "Poststed / by"
+
+#: woocommerce-checkout-manager.php:2141 woocommerce-checkout-manager.php:2211
+msgid "Postcode / Zip"
+msgstr "Postnummer / Zip"
+
+#: woocommerce-checkout-manager.php:2155 woocommerce-checkout-manager.php:2225
+msgid "State / County"
+msgstr "Stat / Fylke"
+
+#: woocommerce-checkout-manager.php:2321
+msgid "Customer details"
+msgstr "kundeopplysninger"
+
+#: woocommerce-checkout-manager.php:2325
+#, fuzzy
+msgid "Email:"
+msgstr "e-post"
+
+#: woocommerce-checkout-manager.php:2326
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: woocommerce-checkout-manager.php:2339
+msgid "Billing Address"
+msgstr "fakturaadresse"
+
+#: woocommerce-checkout-manager.php:2343 woocommerce-checkout-manager.php:2358
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce-checkout-manager.php:2354
+msgid "Shipping Address"
+msgstr "leveringsadresse"
+
+#~ msgid "Enable Title - Additional information"
+#~ msgstr "Aktiver Tittel - Tilleggsopplysninger"
+
+#~ msgid "Example Label"
+#~ msgstr "eksempel Etikett"
+
+#~ msgid "Example placeholder"
+#~ msgstr "eksempel plassholder"
+
+#~ msgid "myfld1"
+#~ msgstr "myfld1"
+
+#~ msgid "Found this Plugin Useful? Why not Buy me a "
+#~ msgstr "Fant denne Plugin Nyttig? Hvorfor ikke kjøpe meg en"
+
+#~ msgid "beer"
+#~ msgstr "øl"
+
+#~ msgid "to say thanks for the awesome coding."
+#~ msgstr "å si takk for den utrolige koding."
+
+#~ msgid "Get the "
+#~ msgstr "Få den "
+
+#~ msgid "PRO VERSION"
+#~ msgstr "Pro-versjonen"
+
+#~ msgid ""
+#~ "to get rid of that pesky (1,0) checkbox (add real values) also add up to "
+#~ "10 (ten) more options...etc :)"
+#~ msgstr ""
+#~ "å bli kvitt det pesky (1,0) boksen (legge reelle verdier) også legge opp "
+#~ "til 10 (ti) flere alternativer ... etc :)"
+
+#~ msgid "Insert Option A"
+#~ msgstr "Sett Alternativ A"
+
+#~ msgid "Insert Option B"
+#~ msgstr "Sett Alternativ B"
+
+#~ msgid "Select below"
+#~ msgstr "Velg nedenfor"
+
+#~ msgid "Receipt Section"
+#~ msgstr "kvittering Seksjon"
+
+#~ msgid "Replace default footer content of Order Receipt"
+#~ msgstr "Erstatt standard bunntekst innhold av Bestillingskvittering"
+
+#~ msgid "Footer Content: "
+#~ msgstr "Bunntekst innhold:"
+
+#~ msgid ""
+#~ "Not adding new fields? Uncheck this box to disable \"Addition information"
+#~ "\" title from checkout details"
+#~ msgstr ""
+#~ "Ikke legge til nye felt? Fjern haken i denne boksen for å deaktivere "
+#~ "\"Addition informasjon\" title fra kassa detaljer"
+
+#~ msgid "Deselect Check boxes in this Column"
+#~ msgstr "Fjerne merket i boksene i dette kolonne"
+
+#~ msgid "New Value?"
+#~ msgstr "Ny verdi?"

@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2013-10-12 12:58-0400\n"
+"PO-Revision-Date: 2013-10-12 13:00-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:53 woocommerce-checkout-manager.php:107
+msgid "Additional Information"
+msgstr "Lisätiedot"
+
+#: woocommerce-checkout-manager.php:85
+msgid "WooCCM"
+msgstr "WooCCM"
+
+#: woocommerce-checkout-manager.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sinulla ei ole tarvittavia oikeuksia käyttää tätä sivua."
+
+#: woocommerce-checkout-manager.php:128
+msgid "settings saved."
+msgstr "asetukset tallennetaan."
+
+#: woocommerce-checkout-manager.php:144 woocommerce-checkout-manager.php:1204
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Kassalle Manager"
+
+#: woocommerce-checkout-manager.php:151
+msgid ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+msgstr ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+
+#: woocommerce-checkout-manager.php:151
+msgid "Forum."
+msgstr "Forum."
+
+#: woocommerce-checkout-manager.php:184
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: woocommerce-checkout-manager.php:191
+msgid "Billing Section"
+msgstr "laskutus jakso"
+
+#: woocommerce-checkout-manager.php:204 woocommerce-checkout-manager.php:413
+#: woocommerce-checkout-manager.php:578
+msgid "Field Name"
+msgstr "kentän nimi"
+
+#: woocommerce-checkout-manager.php:205 woocommerce-checkout-manager.php:414
+msgid "Remove Field Entirely"
+msgstr "Poista Field Täysin"
+
+#: woocommerce-checkout-manager.php:206 woocommerce-checkout-manager.php:415
+msgid "Remove Required Attribute"
+msgstr "Poista Pakollinen ominaisuus"
+
+#: woocommerce-checkout-manager.php:207 woocommerce-checkout-manager.php:416
+msgid "Replace Label Name"
+msgstr "Korvaa Label Name"
+
+#: woocommerce-checkout-manager.php:208 woocommerce-checkout-manager.php:417
+msgid "Replace Placeholder Name"
+msgstr "Vaihda Placeholder nimi"
+
+#: woocommerce-checkout-manager.php:216 woocommerce-checkout-manager.php:425
+msgid "Select All Check boxes in this Column"
+msgstr "Valitse kaikki valinnat tässä sarakkeessa"
+
+#: woocommerce-checkout-manager.php:227 woocommerce-checkout-manager.php:437
+msgid "First Name"
+msgstr "Etunimi"
+
+#: woocommerce-checkout-manager.php:244 woocommerce-checkout-manager.php:454
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: woocommerce-checkout-manager.php:259 woocommerce-checkout-manager.php:485
+msgid "Country"
+msgstr "maa"
+
+#: woocommerce-checkout-manager.php:272
+msgid "Phone"
+msgstr "puhelin"
+
+#: woocommerce-checkout-manager.php:287
+msgid "Email"
+msgstr "Sähköposti"
+
+#: woocommerce-checkout-manager.php:303 woocommerce-checkout-manager.php:469
+msgid "Company"
+msgstr "yritys"
+
+#: woocommerce-checkout-manager.php:320
+msgid "Order Comments"
+msgstr "Tilaa Kommentit"
+
+#: woocommerce-checkout-manager.php:336 woocommerce-checkout-manager.php:500
+msgid "Address 1"
+msgstr "osoite 1"
+
+#: woocommerce-checkout-manager.php:347 woocommerce-checkout-manager.php:512
+msgid "Address 2"
+msgstr "osoite 2"
+
+#: woocommerce-checkout-manager.php:358 woocommerce-checkout-manager.php:524
+msgid "City"
+msgstr "kaupunki"
+
+#: woocommerce-checkout-manager.php:369 woocommerce-checkout-manager.php:536
+msgid "Postal Code"
+msgstr "postinumero"
+
+#: woocommerce-checkout-manager.php:382 woocommerce-checkout-manager.php:549
+msgid "State"
+msgstr "valtio"
+
+#: woocommerce-checkout-manager.php:399
+msgid "Shipping Section"
+msgstr "Toimitus §"
+
+#: woocommerce-checkout-manager.php:566
+msgid "Address Fields and Custom CSS"
+msgstr "Osoite kentät ja mukautettuja CSS"
+
+#: woocommerce-checkout-manager.php:579
+msgid "Product ID - example 2222,1111,4444"
+msgstr "Tuote ID - esimerkiksi 2222,1111,4444"
+
+#: woocommerce-checkout-manager.php:587
+msgid "Disable Address fields: "
+msgstr "Poista Osoite aloilla:"
+
+#: woocommerce-checkout-manager.php:595
+msgid ""
+"To get product number, goto the listing of WooCoommerce Products then hover "
+"over each product and you will see ID. Example"
+msgstr ""
+"Saadaksesi tuotenumero Goto listaus WooCoommerce tuotteet sitten hääriä "
+"kunkin tuotteen ja näet tunnus. esimerkki"
+
+#: woocommerce-checkout-manager.php:609
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: woocommerce-checkout-manager.php:610
+msgid "What is CSS?"
+msgstr "Mikä on CSS?"
+
+#: woocommerce-checkout-manager.php:611
+msgid ""
+"CSS language stands for Cascading Style Sheets which is used to style html "
+"content. You can change the fonts size, colours, margins of content, which "
+"lines to show or input, adjust height, width, background images etc."
+msgstr ""
+"CSS kielen sanoista Cascading Style Sheets, jota käytetään tyyli html-"
+"sisältöä. Voit vaihtaa fonttia kokoa, väriä, katteet sisältöä, mitä rivejä "
+"tulee näyttää tai tulo, säädä korkeus, leveys, taustakuvia jne."
+
+#: woocommerce-checkout-manager.php:613
+msgid "Get help in our Support"
+msgstr "Pyydä apua meidän tuki"
+
+#: woocommerce-checkout-manager.php:614
+msgid "Forum"
+msgstr "foorumi"
+
+#: woocommerce-checkout-manager.php:628
+msgid "Add Checkout Notice"
+msgstr "Lisää Kassalle Ilmoitus"
+
+#: woocommerce-checkout-manager.php:642 woocommerce-checkout-manager.php:682
+msgid "Position for Notice"
+msgstr "Asento Ilmoitus"
+
+#: woocommerce-checkout-manager.php:646 woocommerce-checkout-manager.php:686
+msgid "Before Customer Address Fields"
+msgstr "Ennen Asiakkaan osoite kentät"
+
+#: woocommerce-checkout-manager.php:651 woocommerce-checkout-manager.php:691
+msgid "Before Order Summary"
+msgstr "Ennen Tilauksen yhteenveto"
+
+#: woocommerce-checkout-manager.php:664
+msgid "Notice Text 1 - "
+msgstr "Huomaa Text 1 -"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "You can use class"
+msgstr "Voit käyttää luokan"
+
+#: woocommerce-checkout-manager.php:664 woocommerce-checkout-manager.php:704
+msgid "for the same design as WooCommerce Coupon."
+msgstr "saman mallin kuin WooCommerce kuponki."
+
+#: woocommerce-checkout-manager.php:704
+msgid "Notice Text 2 - "
+msgstr "Huomaa teksti 2 -"
+
+#: woocommerce-checkout-manager.php:722
+msgid "New Fields Position & Switches"
+msgstr "Uudet kentät Asema ja kytkimet"
+
+#: woocommerce-checkout-manager.php:735
+msgid "Name"
+msgstr "nimi"
+
+#: woocommerce-checkout-manager.php:736
+msgid "Enable/ Disable"
+msgstr "Ota käyttöön / Poista käytöstä"
+
+#: woocommerce-checkout-manager.php:743
+msgid "Retain Fields Information"
+msgstr "Säilytä Fields tietoa"
+
+#: woocommerce-checkout-manager.php:751
+msgid "Before Shipping Form"
+msgstr "Ennen lähettämistä muodossa"
+
+#: woocommerce-checkout-manager.php:759
+msgid "After Shipping Form"
+msgstr "Toimittamisen jälkeen muodossa"
+
+#: woocommerce-checkout-manager.php:767
+msgid "Before Billing Form"
+msgstr "Ennen Laskutustietolomake"
+
+#: woocommerce-checkout-manager.php:776
+msgid "After Billing Form"
+msgstr "Jälkeen Laskutustietolomake"
+
+#: woocommerce-checkout-manager.php:785
+msgid "After Order Notes"
+msgstr "Tilauksesta toteaa"
+
+#: woocommerce-checkout-manager.php:801
+msgid "Add New Field Section with Text/ Html Swapper"
+msgstr "Lisää uusi kenttä osio text / html Swapper"
+
+#: woocommerce-checkout-manager.php:817
+msgid "Enable Title"
+msgstr "Ota Otsikko"
+
+#: woocommerce-checkout-manager.php:822
+msgid "Checkout Page"
+msgstr "kassalla"
+
+#: woocommerce-checkout-manager.php:827
+msgid "Checkout Details and Email Receipt"
+msgstr "Kassalle tiedot ja sähköposti Kuitti"
+
+#: woocommerce-checkout-manager.php:890 woocommerce-checkout-manager.php:965
+#: woocommerce-checkout-manager.php:1070
+msgid "Change order"
+msgstr "Vaihda järjestys"
+
+#: woocommerce-checkout-manager.php:892 woocommerce-checkout-manager.php:1074
+msgid "Default Color"
+msgstr "oletusväri"
+
+#: woocommerce-checkout-manager.php:893
+msgid "Show for Single Product Only"
+msgstr "Näytä yhdelle vain tuote"
+
+#: woocommerce-checkout-manager.php:895
+msgid "Label"
+msgstr "etiketti"
+
+#: woocommerce-checkout-manager.php:897
+msgid "Placeholder"
+msgstr "paikkamerkki"
+
+#: woocommerce-checkout-manager.php:899
+msgid "Force Title"
+msgstr "pakota Otsikko"
+
+#: woocommerce-checkout-manager.php:901 woocommerce-checkout-manager.php:1090
+msgid "Input Name"
+msgstr "tulonimi"
+
+#: woocommerce-checkout-manager.php:903 woocommerce-checkout-manager.php:1093
+msgid "Change Name to"
+msgstr "Nimi vaihtuu"
+
+#: woocommerce-checkout-manager.php:905
+msgid "Checked Value"
+msgstr "tarkastettu Arvo"
+
+#: woocommerce-checkout-manager.php:907
+msgid "Not Checked Value"
+msgstr "Ei tarkastettu Arvo"
+
+#: woocommerce-checkout-manager.php:909
+#, fuzzy
+msgid "Option 1"
+msgstr "vaihtoehto 1"
+
+#: woocommerce-checkout-manager.php:911
+#, fuzzy
+msgid "Option 2"
+msgstr "vaihtoehto 2"
+
+#: woocommerce-checkout-manager.php:913
+msgid "Option 3"
+msgstr "vaihtoehto 3"
+
+#: woocommerce-checkout-manager.php:915
+msgid "Option 4"
+msgstr "vaihtoehto 4"
+
+#: woocommerce-checkout-manager.php:917
+msgid "Option 5"
+msgstr "vaihtoehto 5"
+
+#: woocommerce-checkout-manager.php:919
+msgid "Option 6"
+msgstr "vaihtoehto 6"
+
+#: woocommerce-checkout-manager.php:921
+msgid "Option 7"
+msgstr "vaihtoehto 7"
+
+#: woocommerce-checkout-manager.php:923
+msgid "Option 8"
+msgstr "vaihtoehto 9"
+
+#: woocommerce-checkout-manager.php:925
+msgid "Option 9"
+msgstr "vaihtoehto 9"
+
+#: woocommerce-checkout-manager.php:927
+msgid "Option 10"
+msgstr "vaihtoehto 10"
+
+#: woocommerce-checkout-manager.php:929 woocommerce-checkout-manager.php:931
+#: woocommerce-checkout-manager.php:933 woocommerce-checkout-manager.php:935
+msgid "&equiv;"
+msgstr "&equiv;"
+
+#: woocommerce-checkout-manager.php:938
+msgid "Choose Type"
+msgstr "Valitse tyyppi"
+
+#: woocommerce-checkout-manager.php:939
+msgid "Abbreviation"
+msgstr "lyhenne"
+
+#: woocommerce-checkout-manager.php:940
+msgid "Required Attribute"
+msgstr "Vaadittu ominaisuus"
+
+#: woocommerce-checkout-manager.php:942 woocommerce-checkout-manager.php:1159
+msgid "Float Right"
+msgstr "float Oikea"
+
+#: woocommerce-checkout-manager.php:944
+msgid "Remove button"
+msgstr "Poista-painike"
+
+#: woocommerce-checkout-manager.php:1027 woocommerce-checkout-manager.php:1131
+msgid "Options Toggler"
+msgstr "Valinnat Vaihda"
+
+#: woocommerce-checkout-manager.php:1028 woocommerce-checkout-manager.php:1132
+msgid "Checkbox Toggler"
+msgstr "valintaruutu Vaihda"
+
+#: woocommerce-checkout-manager.php:1029 woocommerce-checkout-manager.php:1133
+msgid "T & H Toggler"
+msgstr "T & H Toggler"
+
+#: woocommerce-checkout-manager.php:1030 woocommerce-checkout-manager.php:1134
+msgid "C & P Toggler"
+msgstr "C & P Toggler"
+
+#: woocommerce-checkout-manager.php:1060 woocommerce-checkout-manager.php:1162
+msgid "Remove Field"
+msgstr "Poista kenttä"
+
+#: woocommerce-checkout-manager.php:1077
+msgid "Display Field for these Products Only"
+msgstr "Näyttö Kenttä ainoastaan ​​kyseisiä tuotteita"
+
+#: woocommerce-checkout-manager.php:1081
+msgid "Label of the New Field"
+msgstr "Label Uusi kenttä"
+
+#: woocommerce-checkout-manager.php:1084
+msgid "Placeholder - Preview of Data to Input"
+msgstr "placeholder - Preview of Data to Input"
+
+#: woocommerce-checkout-manager.php:1087
+msgid "First Option Displayed"
+msgstr "Ensimmäinen vaihtoehto Katseltu"
+
+#: woocommerce-checkout-manager.php:1153
+msgid "Abbreviation (No spaces)"
+msgstr "Lyhenne (Ei välilyöntejä)"
+
+#: woocommerce-checkout-manager.php:1156
+msgid "Add/Remove Required Attribute"
+msgstr "Lisää / poista tarvittava ominaisuus"
+
+#: woocommerce-checkout-manager.php:1170
+msgid "+ Add New Field"
+msgstr "+ Lisää uusi kenttä"
+
+#: woocommerce-checkout-manager.php:1180
+msgid "Settings"
+msgstr "Asetukset"
+
+#: woocommerce-checkout-manager.php:1181
+msgid "Support"
+msgstr "tukea"
+
+#: woocommerce-checkout-manager.php:1650 woocommerce-checkout-manager.php:1654
+msgid "is a required field"
+msgstr "on pakollinen kenttä"
+
+#: woocommerce-checkout-manager.php:2100 woocommerce-checkout-manager.php:2170
+msgid "Address"
+msgstr "osoite"
+
+#: woocommerce-checkout-manager.php:2127 woocommerce-checkout-manager.php:2197
+msgid "Town / City"
+msgstr "kaupungin / kaupunki"
+
+#: woocommerce-checkout-manager.php:2141 woocommerce-checkout-manager.php:2211
+msgid "Postcode / Zip"
+msgstr "Postinumero / Zip"
+
+#: woocommerce-checkout-manager.php:2155 woocommerce-checkout-manager.php:2225
+msgid "State / County"
+msgstr "Valtio / lääni"
+
+#: woocommerce-checkout-manager.php:2321
+msgid "Customer details"
+msgstr "asiakkaan tiedot"
+
+#: woocommerce-checkout-manager.php:2325
+#, fuzzy
+msgid "Email:"
+msgstr "Sähköposti"
+
+#: woocommerce-checkout-manager.php:2326
+msgid "Telephone:"
+msgstr "Puhelin:"
+
+#: woocommerce-checkout-manager.php:2339
+msgid "Billing Address"
+msgstr "Laskutusosoite"
+
+#: woocommerce-checkout-manager.php:2343 woocommerce-checkout-manager.php:2358
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce-checkout-manager.php:2354
+msgid "Shipping Address"
+msgstr "Toimitusosoite"
+
+#~ msgid "Enable Title - Additional information"
+#~ msgstr "Ota Otsikko - Lisätietoja"
+
+#~ msgid "Example Label"
+#~ msgstr "esimerkiksi Label"
+
+#~ msgid "Example placeholder"
+#~ msgstr "Esimerkki paikkamerkki"
+
+#~ msgid "myfld1"
+#~ msgstr "myfld1"
+
+#~ msgid "Found this Plugin Useful? Why not Buy me a "
+#~ msgstr "Löysin tämän Plugin Hyödyllisiä? Miksi ei osta minulle"
+
+#~ msgid "beer"
+#~ msgstr "olut"
+
+#~ msgid "to say thanks for the awesome coding."
+#~ msgstr "sanoa kiitos mahtava koodausta."
+
+#~ msgid "Get the "
+#~ msgstr "saada "
+
+#~ msgid "PRO VERSION"
+#~ msgstr "PRO-versio"
+
+#~ msgid ""
+#~ "to get rid of that pesky (1,0) checkbox (add real values) also add up to "
+#~ "10 (ten) more options...etc :)"
+#~ msgstr ""
+#~ "päästä eroon, että ärsyttävä (1,0)-valintaruutu (tuoda todellista arvoa) "
+#~ "myös lisätä enintään kymmenen (10) enemmän vaihtoehtoja ... jne. :)"
+
+#~ msgid "Insert Option A"
+#~ msgstr "Aseta Vaihtoehto"
+
+#~ msgid "Insert Option B"
+#~ msgstr "Aseta Vaihtoehto B"
+
+#~ msgid "Select below"
+#~ msgstr "Valitse alla"
+
+#~ msgid "Receipt Section"
+#~ msgstr "kuitti §"
+
+#~ msgid "Replace default footer content of Order Receipt"
+#~ msgstr "Vaihda oletusalatunnistetta sisältö Tilauskuitti"
+
+#~ msgid "Footer Content: "
+#~ msgstr "Footer sisältö:"
+
+#~ msgid ""
+#~ "Not adding new fields? Uncheck this box to disable \"Addition information"
+#~ "\" title from checkout details"
+#~ msgstr ""
+#~ "Ei uusia kenttiä? Poista tämä valinta, jos haluat poistaa \"Lisäys tiedot"
+#~ "\" otsikon kassalle tiedot"
+
+#~ msgid "Deselect Check boxes in this Column"
+#~ msgstr "Poista Valintaruudut tässä sarakkeessa"
+
+#~ msgid "New Value?"
+#~ msgstr "Uusi arvo?"
